@@ -7,7 +7,7 @@
 //
 
 #import "STViewController.h"
-#import "STTweetLabel.h"
+#import <STTweetLabel/STTweetLabel.h>
 
 @interface STViewController ()
 
